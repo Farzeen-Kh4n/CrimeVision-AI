@@ -45,3 +45,4 @@ To run the user-friendly graphical dashboard for drag-and-drop evidence analysis
    ```bash
    pip install -r requirements.txt
    streamlit run ui.py
+* **Live App Deployment:** https://crimevision-ai-app.streamlit.app
